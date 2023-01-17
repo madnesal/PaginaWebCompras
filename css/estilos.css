@@ -1,3 +1,6 @@
+body{
+    background: #FFF8E7;
+}
 #LOGO img{ 
    width: 30px;
     height: 30px;
@@ -6,7 +9,7 @@
     width: 1343px;
     height: 400px;
 }
-#TextoColeccion h2{
+#TextoColeccion h2, #ProductoDestacado h2{
     font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -19,4 +22,8 @@
     text-align: center;
     color: #000;
     text-decoration: none;
+}
+#Carta1 img,#Carta2 img,#Carta3 img,#Carta4 img{
+    width: 310px;
+    height: 222px;
 }
