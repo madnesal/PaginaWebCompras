@@ -1,0 +1,22 @@
+#LOGO img{ 
+   width: 30px;
+    height: 30px;
+}
+#carouselimg div div img{
+    width: 1343px;
+    height: 400px;
+}
+#TextoColeccion h2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#Coleccion img{
+    width: 310px;
+    height: 222px;
+}
+#Coleccion p, div a{
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
