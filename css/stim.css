@@ -1,0 +1,21 @@
+body{
+    background: #FFF8E7;
+}
+#LOGO img{ 
+   width: 30px;
+    height: 30px;
+}
+#Carta1 img,#Carta2 img{
+    width: 310px;
+    height: 222px;
+}
+#ProductoDisponiblestim h2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#Carta1 img,#Carta2 img,#Carta3 img,#Carta4 img{
+    align-self: center;
+    width: 310px;
+    height: 222px;
+}
