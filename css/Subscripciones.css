@@ -9,16 +9,13 @@ body{
     width: 310px;
     height: 222px;
 }
-#ProductoDisponiblePer h2{
+#ProductoDisponiblesubs h2{
     font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-#Carta1 img, #Carta2 img{
+#Carta1 img,#Carta2 img,#Carta3 img,#Carta4 img{
     align-self: center;
     width: 310px;
     height: 222px;
-}
-#Carta1 p,#Carta1 h5,#Carta2 p,#Carta2 h5{
-text-align: center;
 }
